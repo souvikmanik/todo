@@ -75,7 +75,7 @@ A simple command-line todo list written in Go.
 
 ## Installation
 
-    go get github.com/mattn/todo
+    go get https://github.com/souvikmanik/todo
 
 ## License
 
