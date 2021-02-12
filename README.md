@@ -82,5 +82,4 @@ A simple command-line todo list written in Go.
 MIT
 
 ## Author
-
-Yasuhiro Matsumoto (a.k.a mattn)
+Souvik Manik
